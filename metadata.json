@@ -1,0 +1,5 @@
+{
+  "name": "Instant Count Challenge",
+  "description": "A high-intensity visual memory game where you must count birds flying across the screen in a split second. Features 5 difficulty levels, visual occlusion, and real-time performance tracking.",
+  "requestFramePermissions": []
+}
